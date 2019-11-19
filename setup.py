@@ -15,12 +15,12 @@ with open('CHANGES.rst') as file_changes:
 
 setup(
     name="hat-trie",
-    version="0.3",
+    version="0.4",
     description="HAT-Trie for Python",
     long_description = readme + "\n\n" + changes,
-    author='Mikhail Korobov',
-    author_email='kmike84@gmail.com',
-    url='https://github.com/kmike/hat-trie/',
+    author='Mikhail Korobov, Mustapha Kerouch',
+    author_email='kmike84@gmail.com, mustapha@simondata.com',
+    url='https://github.com/Radico/hat-trie',
 
     ext_modules = [
         Extension(

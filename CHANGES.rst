@@ -1,3 +1,8 @@
+0.4 (2019-11-19)
+----------------
+* hat-trie C library re-generated with Cypthon 0.29 for python3.7+ compatibility
+
+
 0.3 (2016-02-08)
 ----------------
 
