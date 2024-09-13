@@ -1,3 +1,5 @@
+# cython: language_level=3
+
 cdef extern from "../hat-trie/src/hat-trie.h":
 
     ctypedef int value_t
