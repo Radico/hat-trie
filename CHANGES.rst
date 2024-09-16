@@ -1,3 +1,10 @@
+0.5 (2024-09-16)
+----------------
+
+* hat-trie C library re-generated with Cython 0.29.37 for Python 3.10+ compatibility
+* `language_level` set to `3` (Python 3) in `src/chat_trie.pxd` and `src/hat_trie.pyx`
+
+
 0.4 (2019-11-19)
 ----------------
 * hat-trie C library re-generated with Cypthon 0.29 for python3.7+ compatibility
