@@ -1,4 +1,5 @@
 # cython: profile=True
+# cython: language_level=3
 
 from libc.math cimport NAN
 from chat_trie cimport *
